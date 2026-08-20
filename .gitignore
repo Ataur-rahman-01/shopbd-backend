@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+shopbd.db
+supabase/.temp/
+uploads/
+app/uploads/
+.env
